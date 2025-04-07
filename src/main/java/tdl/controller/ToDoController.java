@@ -9,7 +9,7 @@ public class ToDoController {
 
   @GetMapping("")
   public String view1(){
-    
+
     return "";
   }
 
