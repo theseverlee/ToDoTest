@@ -11,6 +11,7 @@ public class ToDoController {
   public String view1() {
     // templates/boardlist.html 을 렌더링
 
+    
     return "boardlist";
   }
 
